@@ -4,14 +4,15 @@ Apply for different loans From different banks Hassle free,Fast and by sitting a
 
 
 
-<p align="center">
-    Home Page
-</p>
-![image](https://user-images.githubusercontent.com/53824950/123053995-10288680-d422-11eb-8aee-f28972e9062d.png)
-
 
 <p align="center">
-    LoanDB ChatBot
+  <img width="200" src="https://user-images.githubusercontent.com/53824950/123053995-10288680-d422-11eb-8aee-f28972e9062d.png" alt="Home Page">
 </p>
-![image](https://user-images.githubusercontent.com/53824950/123054119-2df5eb80-d422-11eb-8bb3-5b9e3598a485.png)
+
+
+
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/53824950/123054119-2df5eb80-d422-11eb-8bb3-5b9e3598a485.png" alt="LoanDB Chat Bot">
+</p>
+
 
