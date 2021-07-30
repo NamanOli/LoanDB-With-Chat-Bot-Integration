@@ -1,4 +1,4 @@
-# Bank Loan Managemet System with Chat Bot Integration. <a href="https://loandb-naman.herokuapp.com/index.php">Link</a>
+# Bank Loan Managemet System with Chat Bot Integration. <a href="https://loandb-naman.herokuapp.com/index.php" target="_blank">Link</a>
 
 Apply for different loans From different banks Hassle free,Fast and by sitting at your Home 
 
